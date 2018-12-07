@@ -1,0 +1,57 @@
+nohup: ignoring input
+{Error using eye
+Out of memory. Type HELP MEMORY for your options.
+
+Error in dipsCoordAscent (line 62)
+	    u = (X'*X + 0.01*eye(nFea))\(X'*y); % ridge
+
+
+Error in dipsFold (line 196)
+                regModel = dipsCoordAscent(trainData, opt);
+
+
+Error in dipsTest (line 59)
+	[m, m2] = dipsFold(data, opt, iFold);
+} 
+{Error using eye
+Out of memory. Type HELP MEMORY for your options.
+
+Error in dipsCoordAscent (line 62)
+	    u = (X'*X + 0.01*eye(nFea))\(X'*y); % ridge
+
+
+Error in dipsFold (line 196)
+                regModel = dipsCoordAscent(trainData, opt);
+
+
+Error in dipsTest (line 59)
+	[m, m2] = dipsFold(data, opt, iFold);
+} 
+{Error using eye
+Out of memory. Type HELP MEMORY for your options.
+
+Error in dipsCoordAscent (line 62)
+	    u = (X'*X + 0.01*eye(nFea))\(X'*y); % ridge
+
+
+Error in dipsFold (line 196)
+                regModel = dipsCoordAscent(trainData, opt);
+
+
+Error in dipsTest (line 59)
+	[m, m2] = dipsFold(data, opt, iFold);
+} 
+{Error using eye
+Out of memory. Type HELP MEMORY for your options.
+
+Error in dipsCoordAscent (line 62)
+	    u = (X'*X + 0.01*eye(nFea))\(X'*y); % ridge
+
+
+Error in dipsFold (line 196)
+                regModel = dipsCoordAscent(trainData, opt);
+
+
+Error in dipsTest (line 59)
+	[m, m2] = dipsFold(data, opt, iFold);
+} 
